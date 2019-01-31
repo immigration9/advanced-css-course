@@ -1,0 +1,8 @@
+.row {
+  // max-width와 width의 차이는, max-width는 viewport가 부족할 경우 100% 채운 값을 가져간다.
+  max-width: 114rem;
+  background-color: #eee;
+  // Center block element
+  margin: 0 auto;
+  
+}
